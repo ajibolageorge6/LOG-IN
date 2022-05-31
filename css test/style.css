@@ -1,0 +1,16 @@
+.box-container{
+   background-color: whitesmoke;
+    text-align: center;   
+}
+.third-container{
+    font-size: 20px;
+}
+.second-container{
+    background-color: #E3BF98;
+    font-size: 19px;
+    margin: auto;
+    max-width: max-content;
+}
+.last-container{
+
+}
